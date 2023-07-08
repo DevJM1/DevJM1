@@ -8,6 +8,7 @@
 
 ## Tecologia que uso no meu dia.
 <div style="display:block"><br/>
+ <img aling="center" alt="Mysql" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
  <img align="center" alt="j" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
  <img aling="center" alt="mysql" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
  <img aling="center" alt="oracle" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
